@@ -1,0 +1,1 @@
+Döngüler ve matematik işlemleri.
